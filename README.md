@@ -19,7 +19,7 @@ Experienced in creating interactive dashboards, storytelling with data, and shar
 ---
  
 ### 🛢 SQL  
-<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" />  
+<img src="https://img.icons8.com/ios-filled/50/ffffff/sql.png" width="40" style="filter: brightness(150%);" />  
 Proficient in writing SQL queries for data extraction, transformation, and analysis—using joins, subqueries, grouping, and window functions.
  
 ---
