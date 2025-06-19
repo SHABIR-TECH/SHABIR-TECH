@@ -1,8 +1,47 @@
-# 👋 Hi, I'm SHABIR
- 
-Welcome to my GitHub! I'm passionate about data analysis, visualization, and cloud-based solutions. Below are some of the core tools I use in my projects:
- 
+# 👋 Hi, I’m Shabir
+## I'm a junior data analyst currently based in East London. I grew up near a peaceful lake called Qargha in Kabul, Afghanistan—a place that shaped my calm, curious, and thoughtful nature. These qualities now guide how I work with data and solve problems.
+
+## 🌍 My Journey So Far
+- Education:
+- Graduated from high school in Afghanistan
+- Earned an English diploma
+- Work Experience:
+- Customer Service Representative at 7km Market in Odessa, Ukraine
+→ Developed strong communication and interpersonal skills
+- Pizza Maker at Baitul Mandi Restaurant in Odessa
+→ Learned teamwork and consistency
+- Delivery Rider with Uber Eats in London
+→ Focused on customer service, time management, and reliability
+
+## 💻 Transition into Tech
+My passion for technology led me to pursue:
+- Certifications in:
+- Python
+- Cybersecurity
+- Current Training:
+- Data Technician Bootcamp at Just IT
+- Tools & Tech: Python, SQL, Power BI, Microsoft Azure
+
+## 🔍 What Sets Me Apart
+I bring a rare blend of technical acumen and people skills. I enjoy:
+- Explaining complex ideas in simple terms
+- Collaborating with people from all walks of life
+- Applying creativity across projects
+
+## 🎨 Outside of Work
+You’ll find me:
+- Exploring new foods 🍱
+- Reading & watching films 🎬
+- Swimming, traveling, and learning languages 
+
+## 🚀 Looking Ahead
+I'm ready to join a team that uses data to solve real-world problems. I'm eager to:
+- Keep learning
+- Work alongside great teammates
+- Deliver meaningful, impactful insights
+
 ---
+# Projects
  
 ## 💼 Tools & Technologies
  
@@ -44,7 +83,5 @@ Capable of building sleek, interactive Power BI dashboards with DAX measures, ca
  
 ## 📬 Contact Me
  
-- 🌐 [LinkedIn](https://www.linkedin.com/)
-- 📁 [My Portfolio](#)
-- 📧 your.email@example.com
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/m-shabir-karimi-79629aab/)
+- 📁 [My Portfolio](https://sites.google.com/view/shabir1/home?authuser=0)
