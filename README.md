@@ -10,7 +10,8 @@ I grew up near the peaceful Qargha Lake in Kabul, Afghanistan—a place that nur
 ### Education
 - Graduated from high school in Afghanistan  
 - Earned an English diploma  
-- **Graduated from the Level 3 Data Technician Bootcamp Program** with Just IT Training  
+- **Earned a Level 2 Diploma in Digital IT Skills** with Just IT Training in 2024  
+- **Graduated from the Level 3 Data Technician Bootcamp Program** with Just IT Training in 2025  
 
 ### Work Experience
 - **Customer Service Representative**, 7km Market (Odessa, Ukraine)  
@@ -27,7 +28,7 @@ I grew up near the peaceful Qargha Lake in Kabul, Afghanistan—a place that nur
 - **Certifications**  
   - Python  
   - Cybersecurity  
-- **Training**  
+  - Digital IT Skills (Level 2 Diploma) at Just IT 
   - Data Technician Bootcamp (Level 3) at Just IT  
 - **Tools & Technologies**  
   Python, SQL, Power BI, Microsoft Azure  
@@ -57,4 +58,4 @@ When I’m not knee-deep in data, I enjoy:
 I’m ready to join a team that turns data into meaningful outcomes. I’m eager to:
 - Keep learning  
 - Collaborate with great people  
-- Deliver insights that drive decisions  
+- Deliver insights that drive decisions
